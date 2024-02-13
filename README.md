@@ -28,6 +28,9 @@ En el contexto de este proyecto en particular, se seleccionaron y emplearon las 
 - Power BI Herramienta central para la visualización y análisis de datos.
 - Canva Herramienta utilizada para la generación de fondos visuales en Power BI.
 
+<img src="https://github.com/MCCoronel/Informe-de-facturacion---Adidas---Data-Analytics/blob/master/informe%201.jpg?raw=true" width="800px">
+<img src="https://github.com/MCCoronel/Informe-de-facturacion---Adidas---Data-Analytics/blob/master/informe%202.jpg?raw=true" width="800px">
+
 ## <span style="color:#000080">**Colaboración y Contribuciones**</span>
 
 Si deseas contribuir al proyecto o realizar sugerencias, no dudes en abrir un "Issue" o enviar un "Pull Request". ¡Tu colaboración es bienvenida!
