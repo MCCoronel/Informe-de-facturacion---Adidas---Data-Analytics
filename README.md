@@ -1,4 +1,4 @@
-<img src="https://github.com/MCCoronel/Informe-de-facturacion---Adidas---Data-Analytics/blob/master/portada.jpg?raw=true" width="500px">
+<img src="https://github.com/MCCoronel/Informe-de-facturacion---Adidas---Data-Analytics/blob/master/portada.jpg?raw=true" width="900px">
 
 # <span style="color:#000080">Análisis de Facturación en Adidas</span>
 
