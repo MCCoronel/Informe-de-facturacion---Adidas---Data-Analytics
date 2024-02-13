@@ -1,3 +1,5 @@
+<img src="https://github.com/MCCoronel/Informe-de-facturacion---Adidas---Data-Analytics/blob/master/portada.jpg?raw=true" width="500px">
+
 # <span style="color:#000080">Análisis de Facturación en Adidas</span>
 
 Este repositorio contiene un proyecto de análisis de facturación utilizando datos de ventas de Adidas. El análisis se centra en entender los patrones de ventas, identificar oportunidades de mejora y respaldar la toma de decisiones estratégicas utilizando herramientas avanzadas de análisis de datos como Power BI.
